@@ -6,10 +6,6 @@
 #include "HttpClient.h"
 #include "ov528.h"
 
-const char* ssid = "kiryus_iPhone";
-const char* password = "Hirokinandesuwa";
-//const char* ssid = "WEC_LOCAL_G";
-//const char* password = "WECWECWECWECWEC";
 const char* POST_URL = "http://www.binzume.net:9000/post?apikey=hoge";
 const char* HEARTBEAT_URL = "http://www.binzume.net:9000/hb?apikey=hoge";
 
